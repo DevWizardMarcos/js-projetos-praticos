@@ -1,8 +1,10 @@
 <!-- Banner visual -->
-<p align="center">
-  <img src="assets/banner.png"  width="100%"  alt="Banner do Projeto" />
-</p>
-
+<hr> 
+<div align="center">
+  <img src="assets/banner.png"   alt="Banner do Projeto" />
+  
+</div>
+<hr> 
 # 🚀 js-projetos-praticos
 
 Repositório de projetos práticos em **JavaScript** para todos os gostos!  
