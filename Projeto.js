@@ -1,0 +1,19 @@
+// MINI PROJETO: Lista de Personagens Favoritos //
+//  1. Crie um array vazio chamado personagens. // 
+// 2. Crie 3 objetos, cada um representando um personagem 
+// (com nome, idade, poder, universo, status).
+ // 3. Adicione esses objetos ao array personagens. 
+ // // 4. Mostre todos os personagens no 
+ // console usando console.log(personagens).
+
+const lista_personagens = []
+
+let deck = [
+
+    { nome : 'Jaina', idade : 30, poder : 'Arcano', universo: 'WOW', status : true},
+    { nome : 'Guldan', idade : 50, poder : 'veneta', universo: 'WOW', status : false},
+    { nome : 'Ilidan', idade : 120, poder : 'Demon-blond', universo: 'WOW', status : true}
+]
+
+lista_personagens.push(...deck)
+console.log(lista_personagens)
