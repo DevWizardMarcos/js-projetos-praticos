@@ -5,7 +5,7 @@
   
 </div>
 <hr> 
-# 🚀 js-projetos-praticos
+🚀 js-projetos-praticos
 
 Repositório de projetos práticos em **JavaScript** para todos os gostos!  
 Exercícios e mini projetos voltados para iniciantes, alunos e autodidatas, cobrindo variáveis, tipos, objetos, arrays e lógica básica.  
